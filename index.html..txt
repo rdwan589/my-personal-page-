@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ÕİÍÊí ÇáÔÎÕíÉ - ÈÈÌí</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .section {
+            background: white;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #007bff;
+        }
+        .game-image {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .social-links a {
+            text-decoration: none;
+            color: #007bff;
+            margin: 0 10px;
+        }
+        footer {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ãÑÍÈÇğ Èß İí ÕİÍÊí ÇáÔÎÕíÉ Íæá ÈÈÌí!</h1>
+    </header>
+    <div class="container">
+        <section class="section">
+            <h2>Úä áÚÈÉ ÈÈÌí</h2>
+            <p>ÈÈÌí (PlayerUnknown's Battlegrounds) åí áÚÈÉ ãÚÑßÉ ãáßíÉ ãÊÚÏÏÉ ÇááÇÚÈíä¡ ÍíË íÊŞÇÊá ÇááÇÚÈæä Úáì ÌÒíÑÉ äÇÆíÉ ÍÊì íÊÈŞì áÇÚÈ æÇÍÏ Ãæ İÑíŞ æÇÍÏ İŞØ. ÊÊÖãä ÇááÚÈÉ ÚäÇÕÑ ÇÓÊÑÇÊíÌíÉ æÈŞÇÁ İí ÈíÆÉ ãİÊæÍÉ.</p>
+            <img src="https://via.placeholder.com/800x400" alt="ÈÈÌí" class="game-image">
+        </section>
+
+        <section class="section">
+            <h2>ÃÍÏË ÇáÃÎÈÇÑ æÇáÊÍÏíËÇÊ</h2>
+            <ul>
+                <li>ÊÍÏíË ÌÏíÏ: ÅÖÇİÉ ÃÓáÍÉ ÌÏíÏÉ æÎÑÇÆØ ãÈÊßÑÉ!</li>
+                <li>ãÓÇÈŞÉ ÌÏíÏÉ: ÇÍÕá Úáì İÑÕÉ ááİæÒ ÈÌæÇÆÒ ÑÇÆÚÉ!</li>
+                <li>ÃÎÈÇÑ ÇááÚÈÉ: ÃÍÏÇË ÎÇÕÉ ÈãäÇÓÈÉ ÇáÚíÏ!</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>ÑæÇÈØ ãİíÏÉ</h2>
+            <p>ÊæÇÕá ãÚäÇ ÚÈÑ:</p>
+            <div class="social-links">
+                <a href="https://twitter.com/pubg" target="_blank">ÊæíÊÑ</a>
+                <a href="https://facebook.com/pubg" target="_blank">İíÓÈæß</a>
+                <a href="https://instagram.com/pubg" target="_blank">ÅäÓÊÛÑÇã</a>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 ÕİÍÉ ÈÈÌí ÇáÔÎÕíÉ. ÌãíÚ ÇáÍŞæŞ ãÍİæÙÉ.</p>
+    </footer>
+</body>
+</html>
